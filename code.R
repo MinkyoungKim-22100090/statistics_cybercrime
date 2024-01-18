@@ -1,4 +1,3 @@
-#22100090 KimMinkyoung
 
 install.packages("forecast")
 install.packages("tseries")
@@ -7,7 +6,7 @@ library(forecast)
 library(tseries)
 library(dplyr)
 
-setwd("/Users/kimminkyoung/Desktop/23-2/statistics/")
+setwd("your path")
 data <- read.csv('해킹범죄건수.csv')
 
 occurrence_data <- data[data$구분 == '발생건수',]
