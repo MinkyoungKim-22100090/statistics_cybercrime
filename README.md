@@ -12,9 +12,9 @@ The primary beneficiaries of this research project include cybersecurity profess
 
 5. Goals of Statistical Analysis:
 The analysis is structured to achieve the following objectives:
-1) Identify and analyze the trends of different hacking incidents over the years.
-2) Investigate the correlation between the occurrences of hacking incidents and their clearance rates.
-3) Utilize statistical models to evaluate the arrest rates for various hacking incidents.
+  1) Identify and analyze the trends of different hacking incidents over the years.
+  2) Investigate the correlation between the occurrences of hacking incidents and their clearance rates.
+  3) Utilize statistical models to evaluate the arrest rates for various hacking incidents.
 
 6. Data Source and Strengths/Weaknesses:
 The data was provided by a public data portal and contains official statistics collected by government agencies. The biggest strength of this dataset lies in its accuracy and public confidence. Since public data portals are known to provide transparent and reliable data, this data helps to derive highly reliable analysis results. However, public data sometimes does not reflect the latest situation, and may not include all types of cybercrime or the latest hacking techniques. In addition, this data alone can provide a limited perspective, unless combined with data from other sources.
